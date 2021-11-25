@@ -1,4 +1,11 @@
 .cart{
-    display: none;
-    position: absolute;
+    display:none;
+    position:absolute;
+    width:400px; 
+    left:300px; 
+    top:100px; 
+    z-index:10; 
+    color:blue; 
+    background-color:black; 
+    padding:100px;
 }
