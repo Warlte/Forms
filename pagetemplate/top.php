@@ -11,8 +11,6 @@ function top(){
   </head>
   <body>
 
-  </body>
-</html>
 <?php
 }
 ?>

@@ -1,7 +1,7 @@
 <?php
-function start(){
+function mainstart(){
 
-echo <<<START
+echo <<<MAINSTART
 <main>
   mycket fin sida
 </main>
@@ -9,7 +9,7 @@ echo <<<START
 
 
 
-START;
+MAINSTART;
 }
 
  ?>
